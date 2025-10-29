@@ -8,9 +8,9 @@ const {
   raizQuadrada
 } = require('./calculadora');
 
-// Testes para a função soma 
+// tirei o comentário kkkkkkkkkkkkkkk
 describe('soma', () => {
-  test('deve somar dois números positivos', () => {
+  test('mudei aq tbm kkkkkkkkkkkkkkkk', () => {
     expect(soma(2, 3)).toBe(5);
   });
 
